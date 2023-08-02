@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.jdbc.connection.DBConnectionUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-02T14:11:11" hostname="johyeonhwaui-MacBookPro.local" time="0.255">
+  <properties/>
+  <testcase name="connection()" classname="hello.jdbc.connection.DBConnectionUtilTest" time="0.255"/>
+  <system-out><![CDATA[23:11:11.472 [Test worker] INFO hello.jdbc.connection.DBConnectionUtil - get connection=conn0: url=jdbc:h2:tcp://localhost/~/test user=SA, class=class org.h2.jdbc.JdbcConnection
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
